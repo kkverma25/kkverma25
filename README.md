@@ -3,7 +3,7 @@
 : ...
 -->
 <h1 align="center">Hi 👋, I'm 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Safone | [![Profile Views](https://gpvc.arturio.dev/AsmSafone)](https://github.com/AsmSafone)
+<img src="https://raw.githubusercontent.com/kkverma25/kkverma25/master/wave.gif" width="30px"> Hi, I'm Safone | [![Profile Views](https://gpvc.arturio.dev/kkverma25)](https://github.com/kkverma25)
 
 
 
