@@ -1,10 +1,10 @@
 : ...
 -->
 <h1 align="center">Hi 👋, I'm 
-
-
-
-
+<p align="center">
+<a href="https://t.me/AsmSafone"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
+</p>
+<img
 
 <h1 align="center">Hi 👋, I'm Mr.verma </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
