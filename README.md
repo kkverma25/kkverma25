@@ -42,4 +42,3 @@ width="80%"
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kkverma25&show_icons=true&locale=en&layout=compact" alt="kkverma25" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kkverma25&show_icons=true&locale=en" alt="kkverma25" /></p>
