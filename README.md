@@ -5,7 +5,7 @@
 <a href="https://t.me/About_Everett"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
 </p>
 <img
-width="49%"
+width="80%"
      src="https://github-readme-stats.vercel.app/api?username=kkverma25&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
 
     
