@@ -4,7 +4,7 @@
 
     <b>ᴠɪsɪᴛᴏʀs</b><br>
 
- -->    <img align="middle" src="https://profile-counter.glitch.me/TeamUltroid/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/kkverma25/count.svg" />
 
 </p>
 -->
