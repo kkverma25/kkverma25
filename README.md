@@ -1,10 +1,9 @@
-<h1> <img src="https://github.com/kkverma25/kkverma25/blob/master/resources/codes.webp" width="100px"> 𝐇𝐄𝐘 𝐓𝐇𝐈𝐒 𝐈𝐒 𝐄𝐕𝐄𝐑𝐄𝐓𝐓 ❂ </h1>
+<h1> <img src="https://github.com/kkverma25/kkverma25/blob/master/resources/codes.webp" width="300px"> 𝐇𝐄𝐘 𝐓𝐇𝐈𝐒 𝐈𝐒 𝐄𝐕𝐄𝐑𝐄𝐓𝐓 ❂ </h1>
 
-<p align="center">
 
-    <b>ᴠɪsɪᴛᴏʀs</b><br>
 
- -->    <img align="middle" src="https://profile-counter.glitch.me/kkverma25/count.svg" />
+    
+ -->    <img align="middle" src="" />
 
 </p>
 -->
