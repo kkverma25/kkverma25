@@ -1,4 +1,12 @@
-: ...
+<h1> <img src="https://github.com/kkverma25/kkverma25/blob/master/resources/codes.webp" width="70px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs  </h1>
+
+<p align="center">
+
+    <b>ᴠɪsɪᴛᴏʀs</b><br>
+
+ -->    <img align="middle" src="https://profile-counter.glitch.me/kkverma25/count.svg" />
+
+</p>
 -->
 <h1 align="center">Hi 👋, I'm 
 <p align="center">
